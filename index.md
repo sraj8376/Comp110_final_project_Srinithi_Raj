@@ -29,13 +29,13 @@ Our idea is relevant to all the other majors who are taking this class, which is
 # Figure 1: Association between interest in course material and value perception, separated by type of computer science major
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="Comp110_final_project_Srinithi_Raj//static/imgs/graph1.png" width="500"/>
 
 # Figure 2: Association between perceived broader connections and value of the course
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="Comp110_final_project_Srinithi_Raj//static/imgs/graph2.png" width="500"/>
 
 # Figure 3: Bar graphs displaying connections, content interest, and value perception across comp and non-comp majors 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="Comp110_final_project_Srinithi_Raj//static/imgs/graph3.png" width="500"/>
 
 # Figure 4: Box plots displaying five-number summary of connections, content interest, and value perception across comp and non-comp majors 
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
